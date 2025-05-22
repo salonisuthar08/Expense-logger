@@ -6,38 +6,38 @@ A clean and simple web app for tracking your daily expenses. Add, view, and dele
 
 ## ✨ Features
 
-- **Add Expense**  
+- *Add Expense*  
   Enter the description, amount, category, and date of your expense.
 
-- **View Expenses**  
+- *View Expenses*  
   Display all expenses in a structured and easy-to-read list.
 
-- **Delete Expense**  
+- *Delete Expense*  
   Remove any expense with a single click.
 
-- **Local Storage**  
-  Your data is saved in your browser using `localStorage` — no backend required!
+- *Local Storage*  
+  Your data is saved in your browser using localStorage — no backend required!
 
 ---
 
 ## Technologies Used
 
-- **HTML** – Page structure  
-- **CSS** – Styling and layout  
-- **JavaScript** – Logic and interactivity
+- *HTML* – Page structure  
+- *CSS* – Styling and layout  
+- *JavaScript* – Logic and interactivity
 
 ---
 
 ## 🚀 How to Use
 
- **Clone this repository**
+ *Clone this repository*
 
-```bash
+
 git clone https://github.com/salonisuthar08/Expense-logger.git
 
-## 🌐 Live Demo
+## 🌐 Access the Web Page
 
-[Click here to view the Expense Logger online](https://salonisuthar08.github.io/Expense-logger/)
+🚀 [Click here to open the Expense Logger](https://salonisuthar08.github.io/Expense-logger/)
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/saloni-suthar-b614b1319)
 
+🔗 [Visit my LinkedIn Profile](https://www.linkedin.com/in/saloni-suthar-b614b1319)
