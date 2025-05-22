@@ -32,7 +32,6 @@ A clean and simple web app for tracking your daily expenses. Add, view, and dele
 
  **Clone this repository**
 
-```bash
 git clone https://github.com/salonisuthar08/Expense-logger.git
 
 ## 🌐 Live Demo
